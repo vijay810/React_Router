@@ -7,5 +7,5 @@
 
 
 # Components in react router:-
-1. <BrowserRouter>: it is used for handling the dynamic URL.
-2. <HashRouter>: it is used for handling the static request.
+* <BrowserRouter>: it is used for handling the dynamic URL.
+* <HashRouter>: it is used for handling the static request.
